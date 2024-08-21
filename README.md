@@ -12,7 +12,7 @@ Hi 👋! I'm Fabricio, a software developer, from Perú/Spain 🇵🇪🇪🇸
 <p align="left">
   ✨ Creating bugs since 2020<br>
   📚 I'm currently learning about Raycasting in videogames<br>
-  🎯 Goals: ...<br>
+  🎯 Goals: Cibersegurity, Game and Web development, have a peaceful life in the countryside with my wife<br>
   🎲 Fun fact: ...<br>
   🎓 I'm currently studying in 42 Madrid 💻📝🌱
 </p>
@@ -139,6 +139,16 @@ Hi 👋! I'm Fabricio, a software developer, from Perú/Spain 🇵🇪🇪🇸
 <br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
-<img src="https://raw.githubusercontent.com/SherlockPe/SherlockPe/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/SherlockPe/SherlockPe/output/snake.svg" alt="Snake animation" /> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<!-- ## Feeding...
+![Snake animation](https://raw.githubusercontent.com/SherlockPe/SherlockPe/output/github-contribution-grid-snake-dark.svg) -->
+
 
 ###
