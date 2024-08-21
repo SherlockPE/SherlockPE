@@ -4,27 +4,31 @@
 <!-- About me -->
 <div>
 	<h2 align="left">About me</h2>
-	<!-- About me (img) -->
+		<!-- About me (img) -->
 	<div>
 		<div style="flex: 1; min-width: 150px;">
 		<img height="250" src=".github/img/picture.png" style="max-width: 100%; border-radius: 50%; object-fit: cover;" align="right"/>
 	</div>
 		<!-- About me (text) -->
-	<div style="min-width: 150px;">
+	<div style="min-width: 150px; ">
 		<p>
 			Hi 👋! I'm Fabricio <br>
 			I'm a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
 			✨ Creating bugs since 2020 <br>
-			📚 I'm currently studying in <a href="https://www.42madrid.com/"> 42 madrid 💻🌱</a> <br>
-			🎯 Goals: <br>
-			├── Cibersegurity 💻 ⚡️ <br>
-			├── Web development 🎮👾 <br>				
-			├── Game development 🎮👾 <br>
-			└── Have a peaceful life in the countryside 🏡🌳 <br>
+			📚 I'm currently studying in <a href="https://www.42madrid.com/" target="_blank" rel="noreferrer"> 42 madrid 💻🌱</a> <br>
+			🎯 Goals:
+			<p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
+				Cibersegurity 💻 ⚡️ <br>
+				Web development 🎮👾 <br>
+				Game development 🎮👾 <br>
+				Have a peaceful life in the countryside 🏡🌳 <br>
+			</p>
 			🦦In my free time I like: <br>
-			├── Draw 📝 <br>
-			├── Learn random things 🧠 <br>
-			└── Workout 🏃🏽‍♂️ <br>
+			<p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
+				Draw 📝 <br>
+				Learn random things 🧠 <br>
+				Workout 🏃🏽‍♂️ <br>
+			</p>
 		</p>
 	</div>
   </div>
@@ -39,7 +43,7 @@
 	<!-- Languages used -->
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SherlockPe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 	<!-- Current Streak -->
-		<img src="https://streak-stats.demolab.com?user=sherlockpe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250"  width="100%" alt="streak graph"  />
+		<img src="https://streak-stats.demolab.com?user=sherlockpe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
