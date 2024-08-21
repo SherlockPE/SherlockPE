@@ -1,38 +1,48 @@
 <!-- <h1 align="center">Hi 👋, I'm Fabricio</h1> -->
 <h1 align="left">Hello there! 👋</h1>
 
-<!-- About me -->
 <div>
-	<h2 align="left">About me</h2>
-		<!-- About me (img) -->
-	<div>
-		<div style="flex: 1; min-width: 150px;">
-		<img height="250" src=".github/img/picture.png" style="max-width: 100%; border-radius: 50%; object-fit: cover;" align="right"/>
-	</div>
-		<!-- About me (text) -->
-	<div style="min-width: 150px; ">
-		<p>
-			Hi 👋! I'm Fabricio <br>
-			I'm a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
-			✨ Creating bugs since 2020 <br>
-			📚 I'm currently studying in <a href="https://www.42madrid.com/" target="_blank" rel="noreferrer"> 42 madrid 💻🌱</a> <br>
-			🎯 Goals:
-			<p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
-				Cibersegurity 💻 ⚡️ <br>
-				Web development 🎮👾 <br>
-				Game development 🎮👾 <br>
-				Have a peaceful life in the countryside 🏡🌳 <br>
-			</p>
-			🦦In my free time I like: <br>
-			<p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
-				Draw 📝 <br>
-				Learn random things 🧠 <br>
-				Workout 🏃🏽‍♂️ <br>
-			</p>
-		</p>
-	</div>
-  </div>
+    <h2 align="left">About me</h2>
+    <!-- Container para la imagen y el texto -->
+    <div class="about-container" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center;">
+        <!-- About me (text) -->
+        <div style="flex: 1; min-width: 150px;">
+            <p>
+                Hi 👋! I'm Fabricio <br>
+                I'm a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
+                ✨ Creating bugs since 2020 <br>
+                📚 I'm currently studying in <a href="https://www.42madrid.com/" target="_blank" rel="noreferrer">42 madrid 💻🌱</a> <br>
+                🎯 Goals:
+                <p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
+                    Cibersegurity 💻 ⚡️ <br>
+                    Web development 🎮👾 <br>
+                    Game development 🎮👾 <br>
+                    Have a peaceful life in the countryside 🏡🌳 <br>
+                </p>
+                🦦In my free time I like: <br>
+                <p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
+                    Draw 📝 <br>
+                    Learn random things 🧠 <br>
+                    Workout 🏃🏽‍♂️ <br>
+                </p>
+            </p>
+        </div>
+        <!-- About me (img) -->
+        <div style="flex: 1; min-width: 150px; text-align: center;">
+            <img height="250" src=".github/img/picture.png" style="max-width: 100%; border-radius: 50%; object-fit: cover;" />
+        </div>
+    </div>
 </div>
+
+<style>
+  /* Para pantallas pequeñas, poner la imagen arriba del texto */
+  @media (max-width: 600px) {
+    .about-container {
+        flex-direction: column-reverse;
+    }
+  }
+</style>
+
 
 ###
 
