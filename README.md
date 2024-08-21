@@ -1,48 +1,38 @@
 <!-- <h1 align="center">Hi 👋, I'm Fabricio</h1> -->
 <h1 align="left">Hello there! 👋</h1>
 
+<!-- About me -->
 <div>
-    <h2 align="left">About me</h2>
-    <!-- Container para la imagen y el texto -->
-    <div class="about-container" style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center;">
-        <!-- About me (text) -->
-        <div style="flex: 1; min-width: 150px;">
-            <p>
-                Hi 👋! I'm Fabricio <br>
-                I'm a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
-                ✨ Creating bugs since 2020 <br>
-                📚 I'm currently studying in <a href="https://www.42madrid.com/" target="_blank" rel="noreferrer">42 madrid 💻🌱</a> <br>
-                🎯 Goals:
-                <p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
-                    Cibersegurity 💻 ⚡️ <br>
-                    Web development 🎮👾 <br>
-                    Game development 🎮👾 <br>
-                    Have a peaceful life in the countryside 🏡🌳 <br>
-                </p>
-                🦦In my free time I like: <br>
-                <p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
-                    Draw 📝 <br>
-                    Learn random things 🧠 <br>
-                    Workout 🏃🏽‍♂️ <br>
-                </p>
-            </p>
-        </div>
-        <!-- About me (img) -->
-        <div style="flex: 1; min-width: 150px; text-align: center;">
-            <img height="250" src=".github/img/picture.png" style="max-width: 100%; border-radius: 50%; object-fit: cover;" />
-        </div>
-    </div>
+	<h2 align="left">About me</h2>
+		<!-- About me (img) -->
+	<div>
+		<div style="flex: 1; min-width: 150px;">
+		<img height="250" src=".github/img/picture.png" style="max-width: 100%; border-radius: 50%; object-fit: cover;" align="right"/>
+	</div>
+		<!-- About me (text) -->
+	<div style="min-width: 150px; ">
+		<p>
+			Hi 👋! I'm Fabricio <br>
+			I'm a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
+			✨ Creating bugs since 2020 <br>
+			📚 I'm currently studying in <a href="https://www.42madrid.com/" target="_blank" rel="noreferrer"> 42 madrid 💻🌱</a> <br>
+			🎯 Goals:
+			<p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
+				Cibersegurity 💻 ⚡️ <br>
+				Web development 🎮👾 <br>
+				Game development 🎮👾 <br>
+				Have a peaceful life in the countryside 🏡🌳 <br>
+			</p>
+			🦦In my free time I like: <br>
+			<p style="margin-left: 4%; margin-top:0px; padding-top:0px;">
+				Draw 📝 <br>
+				Learn random things 🧠 <br>
+				Workout 🏃🏽‍♂️ <br>
+			</p>
+		</p>
+	</div>
+  </div>
 </div>
-
-<style>
-  /* Para pantallas pequeñas, poner la imagen arriba del texto */
-  @media (max-width: 600px) {
-    .about-container {
-        flex-direction: column-reverse;
-    }
-  }
-</style>
-
 
 ###
 
@@ -128,19 +118,6 @@
 	</p>
 </div>
 
-<!-- <div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-	<img width="12" />
-	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div> -->
-
 ###
 
 <div align="left">
@@ -158,10 +135,14 @@
 		<a href="https://www.linkedin.com/in/fabricio-l%C3%B3pez-reyes/" target="_blank">
 			<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 		</a>
-		<!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-		<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-		<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-		<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-		<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
+		<!--  Rest of social media that i do not use (for now... ñeheheh)-->
+			<!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+			<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+			<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+			<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+			<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
 	</div>
 </div>
+
+<!-- Tão morendo de fome, eu quero alguma coisa ja!-->
+<!-- Fabri fuera -->
