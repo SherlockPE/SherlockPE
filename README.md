@@ -4,7 +4,7 @@
 <div>
 	<h2 align="left">About me</h2>
 	<!-- About me-->
-	<div style="display: flex; align-items: center; justify-content: space-between>
+	<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 		<!-- About me (Text) -->
 		<div align="left">
 				Hi 👋! I'm Fabricio, a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
@@ -14,7 +14,7 @@
 					- Cibersegurity 💻 ⚡️ <br>
 					- Game development 🎮👾 <br>
 					- Web development 🎮👾 <br>
-					- Have a peaceful life in the countryside 🌳🏡🌳 <br>
+					- ave a peaceful life in the countryside 🌳🏡🌳 <br>
 					🎲 Fun fact: <br>
 		</div>
 		<!-- About me (Picture) -->
