@@ -142,8 +142,8 @@ Hi 👋! I'm Fabricio, a software developer, from Perú/Spain 🇵🇪🇪🇸
 <!-- <img src="https://raw.githubusercontent.com/SherlockPe/SherlockPe/output/snake.svg" alt="Snake animation" /> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SherlockPE/SherlockPE/b43c874ae33203df4fac0ed4b96f3190315ebaf7/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SherlockPE/SherlockPE/b43c874ae33203df4fac0ed4b96f3190315ebaf7/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
