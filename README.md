@@ -1,28 +1,27 @@
 <!-- <h1 align="center">Hi 👋, I'm Fabricio</h1> -->
-<h1 align="left">Hello there!</h1>
+<h1 align="left">Hello there! 👋</h1>
 
 <div>
-	<h2 align="left">About me</h2>
-	<!-- About me-->
-	<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-		<!-- About me (Text) -->
-		<div align="left">
-				Hi 👋! I'm Fabricio, a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
-				✨ Creating bugs since 2020 <br>
-				📚 I'm currently studying in 42 madrid 💻📝🌱 <br>
-				🎯 Goals: <br>
-					- Cibersegurity 💻 ⚡️ <br>
-					- Game development 🎮👾 <br>
-					- Web development 🎮👾 <br>
-					- ave a peaceful life in the countryside 🌳🏡🌳 <br>
-					🎲 Fun fact: <br>
-		</div>
-		<!-- About me (Picture) -->
-		<div>
-			<img height="150" width="150" src=".github/img/picture.jpg"  />
-		</div>
-	</div>
+  <h2 align="left">About me</h2>
+  <div>
+  	<div>
+			<img height="250" src=".github/img/picture.jpg" align="right">
+  	</div>
+
+	Hi 👋! I'm Fabricio, a software developer, from Perú/Spain 🇵🇪🇪🇸
+	✨ Creating bugs since 2020
+	📚 I'm currently studying in 42 madrid 💻📝🌱
+	🎯 Goals:
+		- Cibersegurity 💻 ⚡️
+		- Game development 🎮👾
+		- Web development 🎮👾
+		- have a peaceful life in the countryside 🌳🏡🌳
+	🎲 Fun facts:
+		-
+  </div>
 </div>
+
+###
 
 <br>
 <div align="center">
