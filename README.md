@@ -7,7 +7,7 @@
   <div>
 		<!-- About me (img) -->
 		<div style="flex: 1; min-width: 150px;">
-        <img height="250" src=".github/img/picture.jpg" style="max-width: 100%; border-radius: 50%; object-fit: cover;" align="right"/>
+        <img height="250" src=".github/img/picture.png" style="max-width: 100%; border-radius: 50%; object-fit: cover;" align="right"/>
     </div>
 		<!-- About me (text) -->
 
