@@ -4,7 +4,7 @@
 <div>
 	<h2 align="left">About me</h2>
 	<!-- About me-->
-	<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+	<div style="display: flex; align-items: center; justify-content: space-between>
 		<!-- About me (Text) -->
 		<div align="left">
 				Hi 👋! I'm Fabricio, a software developer, from Perú/Spain 🇵🇪🇪🇸 <br>
