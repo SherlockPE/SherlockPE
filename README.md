@@ -46,7 +46,7 @@
 	</div>
 	<div align="right">
 		<!-- Current Streak -->
-		<img src="https://streak-stats.demolab.com?user=sherlockpe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+		<img src="https://streak-stats.demolab.com?user=SherlockPe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 	</div>
 </div>
 
