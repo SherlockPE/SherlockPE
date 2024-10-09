@@ -129,8 +129,8 @@
 	<!-- Snake animation -->
 	<div>
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SherlockPE/SherlockPE/b43c874ae33203df4fac0ed4b96f3190315ebaf7/github-contribution-grid-snake-dark.svg" />
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SherlockPE/SherlockPE/b43c874ae33203df4fac0ed4b96f3190315ebaf7/github-contribution-grid-snake.svg" />
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SherlockPE/SherlockPE/97b18b004b0b29809b89dd80ccdd46f574feb0c2/github-contribution-grid-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SherlockPE/SherlockPE/97b18b004b0b29809b89dd80ccdd46f574feb0c2/github-contribution-grid-snake.svg" />
 		<img alt="github-snake" src="github-snake.svg" />
 	</picture>
 	</div>
